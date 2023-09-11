@@ -22,3 +22,4 @@
     - name: creating docker container using simple-devops-image
       command: docker run -d --name simple-devops-container -p 8080:8080 rahamshaik007/simple-devops-image:latest
       Thank You For attendiing
+      Welcome to the devops session
